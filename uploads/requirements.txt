@@ -1,0 +1,6 @@
+Flask>=2.2
+flask-cors
+gunicorn
+pillow
+google-genai
+python-dotenv
